@@ -1,14 +1,12 @@
 # Hi 👋 I'm Piyush
 
-<img align='right' src="https://cutt.ly/lnfmbqL" width="240">
-
 - ### **🏫 I'm a Computer Science student.**
 - ### ⚡ **I work as a Software Engineer at [Rivi](https://rivi.co/)**
 - ### 🤔 **I'm interested in**
     - &nbsp;**λ**&nbsp; Computer Science
     - &nbsp;**∮**&nbsp; Math
     - 🧠 Biology
-## Pandora's Box 🔥
+## Toolset 🔥
 
 <p align="center">
     <img height="48" width="48" src="https://cutt.ly/qhUXKYp" />
